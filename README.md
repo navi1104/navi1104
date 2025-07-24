@@ -1,53 +1,76 @@
+<h1 align="center">Navanit Krish</h1>
 
-
-
-<h1 align="center">⚡ Navanit Krish ⚡</h1>
 <p align="center">
-  🧠 Freelance Software Engineer & UI/UX Designer  
+  🧠 Software Engineer & UI/UX Designer  
 </p>
 <p align="center">
-  🧠 Debugging code & life | 🎨 Crafting interfaces | ☕ Living on caffeine
+  Debugging life & code • Crafting slick UI
 </p>
 
 ---
 
-### 🚀 About me:
+### About Me:
 
-- 💼 Freelancer | I build stuff that makes sense.
-- 🎨 UI/UX Designer | I use Figma like a sketchbook.
-- 🔍 Learning new tech, when I feel like it.
-- ☕ Survive on coffee and chaos.
-- 🧪 Sometimes I disappear to experiment.
+- I'm a developer who loves bringing ideas to life with clean, purposeful code  
+- Design matters to me, but it's always second to how things work  
+- Movies keep me sane, inspired, and sometimes distracted in the best way  
+- I learn when something grabs my curiosity, not out of pressure  
+- Coffee fuels most of my thoughts, ideas, and late-night fixes  
+- I disappear sometimes, not lost, just building or resetting
 
 ---
 
-### 🧰 Tech Skills:
+### Tech Skills:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" width="48" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" />
+<img src="https://skillicons.dev/icons?i=dart" width="48" />
+<img src="https://skillicons.dev/icons?i=flutter" width="48" />
+<img src="https://skillicons.dev/icons?i=cpp" width="48" />
+ 
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" />
+  <img src="https://skillicons.dev/icons?i=scss" width="48" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" />
+</div>
+
+
+---
+
+### GitHub Stats:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,tailwind,scss,figma,git,github,vscode" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navi1104&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navi1104&theme=tokyonight" alt="GitHub Summary" />
 </p>
 
 ---
 
-### 📈 Stats:
+### Let’s Connect!
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navi1104&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/navanit-krish-k-m-632a0a226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:navanitkrishkm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23ff6ac1.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/navi1104" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23117a8b.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navi1104&theme=tokyonight" />
-</p>
-
-
 
 ---
-## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/navanitkrish](https://www.linkedin.com/in/navanit-krish-k-m-632a0a226/))
-[![Mail](https://img.shields.io/badge/Email-%23ff6ac1.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navanitkrishkm@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23117a8b.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navi1104)
-
-> ⚡ Let's build cool stuff together!
-
-
+<p align="center">
+  ⚡ Let's build cool stuff together. Or at least make it look cool 😏
+</p>
