@@ -47,7 +47,7 @@
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navi1104&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=navi1104&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navi1104&theme=tokyonight" alt="GitHub Summary" />
