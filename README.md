@@ -72,5 +72,5 @@
 ---
 
 <p align="center">
-  ⚡ Let's build cool stuff together. Or at least make it look cool 😏
+  ⚡ Let's build cool stuff together!
 </p>
